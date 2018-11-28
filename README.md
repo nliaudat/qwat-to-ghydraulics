@@ -14,7 +14,7 @@ The approach chosen is to add virtual layers to Qgis project and then copy/paste
 
 ## Usage
 
-Open the the project file provided, copy/paste the required sector in the corresponding Ghydraulics shapefiles and export to Epanet
+Open the provided project file, copy/paste the required sector in the corresponding Ghydraulics shapefiles and export to Epanet
 
 ## The virtual Layers
 
